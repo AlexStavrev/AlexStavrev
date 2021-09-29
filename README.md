@@ -2,8 +2,11 @@
 
 ### I am a Computer Sciense Student
 - 📚 I am currently expanding knowledge on C# .NET Core v5.
-- 💻 I’m currently working on a 3rd semester university project.
+- 💻 I am currently working on a 3rd semester university project.
 - 🚀 2021 Goals: Lean more abount C# .Net Core and RESTful APIs
+
+### Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wrexbg&theme=react&show_icons=true&count_private=true)
 
 ### Languages and Tools
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="c#" width="26px"></code>
@@ -18,7 +21,7 @@
 <br />
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wrexbg&theme=react&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WrexBG&theme=react&show_icons=true&count_private=true)](https://github.com/WrexBG/github-readme-stats)
 
 ### Media
 <a href="https://www.linkedin.com/in/aleksandar-stavrev-779493195/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
