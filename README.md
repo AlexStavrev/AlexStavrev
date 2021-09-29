@@ -21,5 +21,6 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wrexbg&theme=react&show_icons=true)
 
 ### Media
-<code><a href="https://github.com/WrexBG"><img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a></code>
-<code><a href="https://www.linkedin.com/in/aleksandar-stavrev-779493195/"><img alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></code>
+<a href="https://www.linkedin.com/in/aleksandar-stavrev-779493195/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://github.com/WrexBG"> ![alt text](https://img.shields.io/badge/-GitHub-0e76a8?style=plastic&logo=GitHub&color=555555)</a>
+<a href="https://discordapp.com/users/264678926607974400/"> ![alt text](https://img.shields.io/badge/-Discord-0e76a8?style=plastic&logo=Discord&color=111177)</a>
