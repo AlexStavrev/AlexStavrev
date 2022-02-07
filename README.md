@@ -1,9 +1,9 @@
 ## Hey, I'm Alex!
 
 ### I am a Computer Sciense Student
-- 📚 I am currently expanding knowledge on C# .NET Core v5.
-- 💻 I am currently working on a 3rd semester university project.
-- 🚀 2021 Goals: Lean more abount C# .Net Core and RESTful APIs
+- 📚 I am currently expanding knowledge on C# .NET Core, programming methodologies, and working within a company.
+- 💻 I am currently working on a 4th semester group case collaboration with a company.
+- 🚀 2022 Goals: Lean more abount C# .Net Core, MAUI, and App development
 
 ### Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wrexbg&theme=react&show_icons=true&count_private=true)
