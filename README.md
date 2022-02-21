@@ -1,9 +1,9 @@
 ## Hey, I'm Alex!
 
 ### I am a Computer Sciense Student
-- 📚 I am currently expanding knowledge on C# .NET Core, programming methodologies, and working within a company.
-- 💻 I am currently working on a 4th semester group case collaboration with a company.
-- 🚀 2022 Goals: Lean more abount C# .Net Core, MAUI, and App development
+- 📚 I am currently expanding knowledge on C#, python, programming methodologies, and working within a company.
+- 💻 I am currently working on a 4th semester group case collaboration with Norlys Energy Trading A/S.
+- 🚀 2022 Goals: Lean more abount C#, MAUI & App development, Big Data, AI & MachineLearning
 
 ### Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wrexbg&theme=react&show_icons=true&count_private=true)
