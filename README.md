@@ -1,12 +1,11 @@
 ## Hey, I'm Alex!
 
-### I am a Computer Sciense Student
-- 📚 I am currently expanding knowledge on C#, python, programming methodologies, and working within a company.
-- 💻 I am currently working on a 4th semester group case collaboration with Norlys Energy Trading A/S.
-- 🚀 2022 Goals: Lean more abount C#, MAUI & App development, Big Data, AI & MachineLearning
+### I am a Software Developer Student
+- 📚 I am currently expanding knowledge on developing large systems and scalability with tools such as Docker.
+- 🚀 2023 Goals: Learn More about system integration, scalability, Kubernities, CI/CD flows.
 
 ### Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wrexbg&theme=react&show_icons=true&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexstavrev&theme=react&show_icons=true&count_private=true)
 
 ### Languages and Tools
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="c#" width="26px"></code>
@@ -21,9 +20,9 @@
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WrexBG&theme=react&show_icons=true&count_private=true)](https://github.com/WrexBG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexStavrev&theme=react&show_icons=true&count_private=true)](https://github.com/AlexStavrev/github-readme-stats)
 
 ### Media
 <a href="https://www.linkedin.com/in/aleksandar-stavrev-779493195/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<a href="https://github.com/WrexBG"> ![alt text](https://img.shields.io/badge/-GitHub-0e76a8?style=plastic&logo=GitHub&color=555555)</a>
+<a href="https://github.com/AlexStavrev"> ![alt text](https://img.shields.io/badge/-GitHub-0e76a8?style=plastic&logo=GitHub&color=555555)</a>
 <a href="https://discordapp.com/users/264678926607974400/"> ![alt text](https://img.shields.io/badge/-Discord-0e76a8?style=plastic&logo=Discord&color=111177)</a>
