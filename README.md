@@ -1,8 +1,8 @@
 ## Hey, I'm Alex!
 
 ### I am a Software Developer Student
-- 📚 I am currently expanding knowledge on developing large systems and scalability with tools such as Docker.
-- 🚀 2023 Goals: Learn More about system integration, scalability, Kubernities, CI/CD flows.
+- 📚 I am currently expanding knowledge on developing practical large systems and scalability.
+- 🚀 2024 Goals: Graduate Software Development Bachelor
 
 ### Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexstavrev&theme=react&show_icons=true&count_private=true)
